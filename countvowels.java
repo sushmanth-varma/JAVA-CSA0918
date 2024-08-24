@@ -14,3 +14,4 @@ public class VowelCounter {
         System.out.println("Number of vowels = " + vowelCount);
     }
 }
+\
